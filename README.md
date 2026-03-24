@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Yiğit 👋
 
-<!--
-**YigitYalcinn/YigitYalcinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Backend Developer focused on Java & Spring Boot  
+🤖 Building AI-powered backend systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+- Management Information Systems (senior student)
+
+---
+
+## 🌍 Languages
+- English: C1 (Professional working proficiency)
+- German: Beginner (A1)
+
+---
+
+## 🛠 Tech Stack
+- Java
+- Spring Boot
+- REST APIs
+- PostgreSQL
+- Hibernate / JPA
+- Docker
+
+---
+
+## 🤖 AI & LLM
+- LLM Integration
+- Prompt Engineering
+- AI-powered features
+
+---
+
+## 🚀 What I'm doing now
+- Building backend projects with Java
+- Learning microservices & system design
+- Integrating AI into backend systems
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/yigit-yalcin/
+- Mail : yyalcinb@hotmail.com
