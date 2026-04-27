@@ -1,12 +1,12 @@
-# Hi, I'm Yiğit 👋
+# Hi, I'm Yigit 👋
 
-🚀 Backend Developer (Java & Spring Boot)  
-🤖 Building AI-powered backend systems  
+🚀 Aspired to be Full Stack Web Developer 
+🤖 Building AI-powered web solutions
 
 ---
 
 ## 🛠 Tech Stack
-Java | Spring Boot | REST APIs | PostgreSQL | JPA | Docker  
+JavaScript | Node.js | TypeScript | React | Tailwindcss 
 
 ## 🤖 AI
 LLM Integration | Prompt Engineering  
