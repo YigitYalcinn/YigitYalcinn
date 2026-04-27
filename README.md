@@ -6,7 +6,7 @@
 ---
 
 ## 🛠 Tech Stack
-JavaScript | Node.js | TypeScript | React | Tailwindcss 
+JavaScript | Next.js | TypeScript | React 
 
 ## 🤖 AI
 LLM Integration | Prompt Engineering  
