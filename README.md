@@ -1,18 +1,39 @@
 # Hi, I'm Yigit 👋
 
-🚀 Aspired to be Full Stack Web Developer 
-🤖 Building AI-powered web solutions
+🎯 Aspiring Business Analyst passionate about solving business problems through technology and data.
 
 ---
 
-## 🛠 Tech Stack
-JavaScript | Next.js | TypeScript | React 
+## 💼 Areas of Interest
+- Business Analysis
+- Business Process Improvement
+- Requirements Gathering
+- Data Analysis
+- Business Intelligence
+- Digital Transformation
 
-## 🤖 AI
-LLM Integration | Prompt Engineering  
+---
+
+## 🛠 Tools & Technologies
+SQL • Excel • Power BI • Python (Learning) • Git • AI Tools
+
+---
+
+## 📂 What You'll Find Here
+- Business Analysis case studies
+- Data analysis projects
+- Dashboard & reporting projects
+- Process improvement examples
+- AI-assisted business solutions
+
+---
 
 ## 🎓 Education
-Management Information Systems (Senior Student)
+**B.Sc. Management Information Systems**  
+Düzce University
+
+---
 
 ## 🌍 Languages
-English (C1) | German (A1)
+🇬🇧 English (C1)  
+🇩🇪 German (A1)
